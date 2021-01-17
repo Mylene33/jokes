@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { Component } from "react";
 import './QuoteCard.css';
 
-class QuoteCard extends React.Component {
+class QuoteCard extends Component {
 
     constructor(props){
         super(props);
